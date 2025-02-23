@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @CarlosFeldhaus
 - 👀 I’m interested in Data Analysis / BI
-- 🌱 I’m currently learning Suzano - Análise de Dados com Power BI
 - 📫 How to reach me carlos.feldhaus@gmail.com
 
 <!---
