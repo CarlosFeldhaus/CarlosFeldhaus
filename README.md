@@ -22,7 +22,7 @@ Aqui estão algumas das ferramentas e tecnologias que costumo usar para análise
 - **Linguagens:** SQL, Python, DAX
 - **Banco de Dados:** MySQL
 - **Ferramentas de Visualização de Dados:** Power BI
-- **Bibliotecas de Python:** Pandas, Numpy, Beautifulsoup
+- **Bibliotecas de Python:** Pandas, Numpy, BeautifulSoup
 - **Outras Ferramentas:** Jupyter Notebooks
 
 ---
