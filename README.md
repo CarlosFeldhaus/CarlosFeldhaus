@@ -1,10 +1,10 @@
 # Olá, Eu sou Carlos Feldhaus 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou **Analista de Dados** e utilizo o **SQL**, **Python** e **Power BI** para criar soluções robustas de análise e visualização de dados.
+Bem-vindo ao meu perfil no GitHub! Sou **Analista de BI** e utilizo o **SQL**, **Python** e **Power BI** para criar soluções robustas de análise e visualização de dados.
 
 ## Sobre Mim
 
-🎓 **Formação:** Analista de Dados  
+🎓 **Formação:** Analista de BI 
 💻 **Tecnologias que uso:** SQL, Python, Power BI  
 🌱 **Atualmente estudando:** Técnicas avançadas de análise de dados e Machine Learning
 
