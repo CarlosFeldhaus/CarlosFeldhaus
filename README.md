@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil no GitHub! Sou **Analista de BI** e utilizo o **SQL**, *
 
 ## Sobre Mim
 
-🎓 **Formação:** Analista de BI
+🎓 **Formação:** Engenharia Elétrica
 
 💻 **Tecnologias que uso:** SQL, Python, Power BI
 
@@ -23,14 +23,10 @@ Bem-vindo ao meu perfil no GitHub! Sou **Analista de BI** e utilizo o **SQL**, *
 
 Aqui estão algumas das ferramentas e tecnologias que costumo usar para análise de dados:
 
-- **Linguagens:** SQL, Python, DAX
+- **Linguagens:** SQL, Python, DAX, Linguagem M
 
 - **Banco de Dados:** MySQL
 
 - **Ferramentas de Visualização de Dados:** Power BI
-
-- **Bibliotecas de Python:** Pandas, Numpy, BeautifulSoup
-
-- **Outras Ferramentas:** Jupyter Notebooks
 
 ---
