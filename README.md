@@ -2,23 +2,36 @@
 
 Bem-vindo ao meu perfil no GitHub! 
 
-Sou **Analista de Business Intelligence (BI)** com foco em transformar dados em insights acionáveis por meio de ferramentas como **SQL**, **Python** e **Power BI**.
+Sou **Analista de Business Intelligence (BI)** com atuação focada em visualização de dados e em análises aprofundadas de produtos e comportamento de clientes.
 
 ## Sobre Mim
 
-🎓 **Formação:** Engenheiro Eletricista de formação, apaixonado por dados e tecnologia.
+🎓 **Formação:**
 
-📊 **Atuação**: Desenvolvimento de soluções analíticas, modelagem de dados e criação de dashboards interativos.
+  **Graduação:** Engenharia Eletricista.
+  **Pós-Graduação:** Gestão de Negociação e Relacionamento. 
+  
+  **Especialização em Dados:** Diversos cursos e certificações em **Análise de Dados, Ciência de Dados e Business Intelligence**, focados em:
+  
+  - Modelagem de Dados.
+    
+  - Análises Estratégicas de Clientes.
+    
+  - Análise de Portfólio de Produtos.
+    
+  - Estatística aplicada a negócios.
+    
+  - Desenvolvimento de Dashboards e Storytelling com Dados.
 
-🌱 **Atualmente estudando:** Técnicas avançadas de análise de dados e Machine Learning
+📊 **Atuação**: 
+
+- Desenvolvimento de soluções analíticas.
+- Modelagem de dados.
+- Criação de dashboards interativos.
 
 ## Tecnologias e Ferramentas
 
-Aqui estão algumas das ferramentas e tecnologias que costumo usar para análise de dados:
-
 - **Linguagens:** SQL, Python, DAX, Linguagem M
-
-- **Banco de Dados:** MySQL
 
 - **Ferramentas de Visualização de Dados:** Power BI
 
