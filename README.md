@@ -35,7 +35,29 @@ Sou **Analista de Business Intelligence (BI)** com atuação focada em visualiza
 
 - **Ferramentas de Visualização de Dados:** Power BI
 
-## Como Entrar em Contato
+## About Me
+I am a Business Intelligence (BI) Analyst focused on data visualization and in-depth analysis of products and customer behavior.
+
+## Education
+- Bachelor’s Degree: Electrical Engineering  
+- Postgraduate: Negotiation and Relationship Management  
+- Data Specialization: Courses and certifications in Data Analysis, Data Science, and Business Intelligence, focused on:
+  - Data Modeling
+  - Strategic Customer Analysis
+  - Product Portfolio Analysis
+  - Applied Business Statistics
+  - Dashboards and Data Storytelling
+
+## Professional Experience
+- Development of analytical solutions  
+- Data modeling  
+- Creation of interactive dashboards  
+
+## Technologies & Tools
+- Languages: SQL, Python, DAX, M  
+- Visualization Tools: Power BI  
+
+## Contato
 
 📧 **Email:** carlos.feldhaus@gmail.com 
 
